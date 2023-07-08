@@ -15,7 +15,7 @@ import { RouterView, RouterLink } from 'vue-router'
       <div class="line">
         <ul>
           <a href="mailto:m.khoshdel81@gmail.com" target="_blank" rel="noopener" class="fa fa-envelope" style="padding-top: 9px;"></a>
-          <a href="https://www.linkedin.com/in/mohammad-khoshdel-06448b210" target="_blank" rel="noopener" class="fa fa-linkedin" style="padding-top: 9px;"></a>
+          <a href="https://www.linkedin.com/in/mkm-dev/" target="_blank" rel="noopener" class="fa fa-linkedin" style="padding-top: 9px;"></a>
           <a href="https://github.com/dev-mkm" target="_blank" rel="noopener" class="fa fa-github" style="font-size: 29px;padding: 5px 0;"></a>
           <a href="https://t.me/mkm_dev" target="_blank" rel="noopener" class="fa fa-telegram" style="font-size: 25px;padding: 8px 0;"></a>
         </ul>
