@@ -4,7 +4,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ## Online Preview
 
-https://master--euphonious-frangipane-c32b36.netlify.app
+https://mkm-dev.netlify.app/
 
 ## Project Setup
 
